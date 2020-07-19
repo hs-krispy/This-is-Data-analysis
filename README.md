@@ -12,12 +12,12 @@
 
 ## Chap 1
 
-- [탐색적 데이터 분석](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap 1/1 - 1.md)
+- [탐색적 데이터 분석](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%201/1%20-%201.md)
 
-- [상관 분석과 시각화](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap 1/1 - 2.md)
+- [상관 분석과 시각화](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%201/1%20-%202.md)
 
-- [통계적 분석](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap 1/1 - 3.md)
+- [통계적 분석](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%201/1%20-%203.md)
 
 ## Chap 3
 
-- [피처의 시각화와 정규화](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap 3/3 - 1.md)
+- [피처의 시각화와 정규화](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%203/3%20-%201.md)
