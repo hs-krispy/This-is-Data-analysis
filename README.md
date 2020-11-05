@@ -20,4 +20,4 @@
 
 ## Chap 3
 
-- [피처의 시각화와 정규화](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%203/3%20-%201.md)
+- [피처의 시각화와 정규화](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%203/%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.md)
