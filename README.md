@@ -23,3 +23,12 @@
 - [피처의 시각화와 정규화](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%203/%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.md)
 
 - [모델 평가와 피처 선택](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%203/%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D(2).md)
+
+- #### 시계열 데이터 분석
+
+  - [ARIMA model](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%203/%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.md)
+  - [Prophet model](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%203/%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D(2).md)
+  - [모델 개선](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%203/%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D(3).md)
+
+
+
