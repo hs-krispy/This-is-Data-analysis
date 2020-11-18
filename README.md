@@ -34,3 +34,7 @@
   
   - [예측을 위한 탐색적 데이터 분석](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%203/%EC%98%81%ED%99%94%20%ED%8F%89%EC%A0%90%20%EC%98%88%EC%B8%A1.md)
   - [SVD를 이용한 평점 예측](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%203/%EC%98%81%ED%99%94%20%ED%8F%89%EC%A0%90%20%EC%98%88%EC%B8%A1(2).md)
+
+## Chap 4
+
+- [Titanic dataset & EDA](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%204/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89%20%EC%83%9D%EC%A1%B4%EC%9E%90%20%EB%B6%84%EB%A5%98.md)
