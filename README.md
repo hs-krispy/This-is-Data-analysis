@@ -30,11 +30,18 @@
   - [Prophet model](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%203/%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D(2).md)
   - [모델 개선](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%203/%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D(3).md)
 
-- 영화 평점 예측
+- #### 영화 평점 예측
   
   - [예측을 위한 탐색적 데이터 분석](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%203/%EC%98%81%ED%99%94%20%ED%8F%89%EC%A0%90%20%EC%98%88%EC%B8%A1.md)
   - [SVD를 이용한 평점 예측](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%203/%EC%98%81%ED%99%94%20%ED%8F%89%EC%A0%90%20%EC%98%88%EC%B8%A1(2).md)
 
-## Chap 4
+## Chap 4 
 
-- [Titanic dataset & EDA](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%204/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89%20%EC%83%9D%EC%A1%B4%EC%9E%90%20%EB%B6%84%EB%A5%98.md)
+- #### 타이타닉 생존자 분류
+
+  - [Titanic dataset & EDA](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%204/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89%20%EC%83%9D%EC%A1%B4%EC%9E%90%20%EB%B6%84%EB%A5%98.md)
+  - [결측값 처리와 모델](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%204/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89%20%EC%83%9D%EC%A1%B4%EC%9E%90%20%EB%B6%84%EB%A5%98(2).md)
+  - [Feature engineering](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%204/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89%20%EC%83%9D%EC%A1%B4%EC%9E%90%20%EB%B6%84%EB%A5%98(3).md)
+  - [모델 검증](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%204/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89%20%EC%83%9D%EC%A1%B4%EC%9E%90%20%EB%B6%84%EB%A5%98(4).md)
+
+  
