@@ -44,4 +44,12 @@
   - [Feature engineering](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%204/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89%20%EC%83%9D%EC%A1%B4%EC%9E%90%20%EB%B6%84%EB%A5%98(3).md)
   - [모델 검증](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%204/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89%20%EC%83%9D%EC%A1%B4%EC%9E%90%20%EB%B6%84%EB%A5%98(4).md)
 
-  
+
+## Chap 5
+
+- #### 중고나라 휴대폰 거래가격 예측
+
+  - [중고나라 dataset & EDA](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%205/%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%20%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EA%B1%B0%EB%9E%98%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1.md)
+  - [Random forest regressor](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%205/%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%20%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EA%B1%B0%EB%9E%98%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1(2).md)
+  - [Feature engineering](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%205/%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%20%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EA%B1%B0%EB%9E%98%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1(3).md)
+  - [TF-IDF 피처 변환 후 재학습](https://github.com/hs-krispy/This-is-Data-analysis/blob/master/Chap%205/%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%20%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EA%B1%B0%EB%9E%98%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1(4).md)
